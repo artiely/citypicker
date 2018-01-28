@@ -1,13 +1,13 @@
 ## 城市四级联动demo
 
 
-地址数据 https://github.com/artiely/Administrative-divisions-of-China
-demo-1 带code的数据 
-demo-2 打包体积更小 推荐   
+地址数据 https://github.com/artiely/Administrative-divisions-of-China       
+demo-1 带code的数据     
+demo-2 打包体积更小 推荐      
 
 > demo依赖 mint-ui的picker组件 可直接复制代码到自己的项目 记得加上 babel-polyfill  记得 star ^-^
 
-demo构建 基于 https://github.com/artiely/quick-start-spa
+demo构建 基于 https://github.com/artiely/quick-start-spa    
 
 ## 启动
 
